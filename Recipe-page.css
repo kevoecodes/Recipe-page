@@ -65,6 +65,8 @@ body{
 .ingredients-lists, .instructions-lists{
   padding-left: 15px;
   line-height: 1.5;
+  color: hsl(24, 5%, 18%);
+  
 }
 .inst-steps{
   font-weight: bold;
@@ -105,6 +107,6 @@ body{
   padding-left: 280px;
 }
 .lines{
-  color:  hsl(24, 5%, 18%) -30%;
+  color:  hsl(24, 10%, 70%);
   width: 90%;
 }
