@@ -1,5 +1,5 @@
 body{
-  background-color: hsl(330, 100%, 98%);
+  background-color: #F3E5D8;
   width: 1440px;
 }
 .container{
@@ -49,5 +49,8 @@ body{
   font-family: "young serif";
   font-size: 20px;
   
+
+}
+.first-list{
 
 }
