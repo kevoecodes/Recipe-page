@@ -4,7 +4,7 @@ body{
 }
 .container{
   width: 50%;
-  height: 1500px;
+  height: 1600px;
   background-color: white;
   border-radius: 20px;
   display: block;
@@ -40,7 +40,7 @@ body{
   margin-right: auto;
   background-color: hsl(330, 100%, 98%);
   border-radius: 12px;
-  line-height: 1.7;
+  line-height: 1.5;
 }
 .p2{
   padding-top: 20px;
@@ -51,6 +51,60 @@ body{
   
 
 }
-.first-list{
-  
+.p3{
+  font-family: "young serif";
+  font-size: 24px;
+  color: hsl(14, 45%, 36%);
+  padding-left: 40px;
+}
+.ingredients, .Instructions{
+   margin-left: 20px;
+   font-family: "Outfit";
+   color: hsl(14, 45%, 36%);
+}
+.ingredients-lists, .instructions-lists{
+  padding-left: 15px;
+  line-height: 1.5;
+}
+.inst-steps{
+  font-weight: bold;
+  color: hsl(24, 5%, 18%);
+}
+.table{
+  font-family: "outfit";
+  font-size: 16px;
+  color: hsl(24, 5%, 18%);
+  padding-left: 40px;
+  line-height: 1.5;
+}
+.nutrition-list{
+  font-family: "outfit";
+  font-size: 16px;
+  color: hsl(24, 5%, 18%);
+  padding-left: 70px;
+  line-height: 1.5;
+}
+.nutrient-1{
+  color: hsl(14, 45%, 36%);
+  font-weight: bold;
+  padding-left: 250px;
+}
+.nutrient-2{
+  color: hsl(14, 45%, 36%);
+  font-weight: bold;
+  padding-left: 265px;
+}
+.nutrient-3{
+  color: hsl(14, 45%, 36%);
+  font-weight: bold;
+  padding-left: 255px;
+}
+.nutrient-4{
+  color: hsl(14, 45%, 36%);
+  font-weight: bold;
+  padding-left: 280px;
+}
+.lines{
+  color:  hsl(24, 5%, 18%) -30%;
+  width: 90%;
 }
